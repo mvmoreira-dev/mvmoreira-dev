@@ -22,7 +22,7 @@
   
   <p align="center"> I enjoy working with <b>Linux</b>, <b>C/C++</b> and <b>Python</b>, exploring the relationship between software and hardware through <b>IoT projects</b> with ESP32 and Arduino. </p>
   
-  <p align="center"> I'm also the <b>Director of Extension</b> at <b>LAICQ - UFERSA</b>, contributing to academic and outreach activities related to <b>Quantum Computing</b>. </p>
+  <p align="center"> I'm also the <b>Director of Extension</b> at <b>LAICQ - UFERSA (MOSSORÓ)</b>, contributing to academic and outreach activities related to <b>Quantum Computing</b>. </p>
   
   <br>
   
