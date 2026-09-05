@@ -12,8 +12,7 @@
   <p align="center"> <code>Back-end</code> · <code>Systems</code> · <code>Low-level</code> · <code>Linux</code> · <code>IoT</code> · <code>Quantum Computing</code> </p>
   <br>
   <br>
-  ✦ About Me ✦
-  <br>
+  <h3>✦ About Me ✦</h3>
   <br>
   <br>
   
@@ -28,8 +27,7 @@
   <br>
   
   <br>
-  ✦ Languages and Technologies ✦
-  <br>
+  <h3>✦ Languages and Technologies ✦</h3>
   <br>
   <br>
   <p align="center">
@@ -46,8 +44,8 @@
   <br>
   <br>
   
-  ✦ Education & Institutions ✦
-  
+  <h3>✦ Education & Institutions ✦</h3>
+  <br>
   <br>
   <p align="center">
     <a href="https://www.grautecnico.com.br/">
