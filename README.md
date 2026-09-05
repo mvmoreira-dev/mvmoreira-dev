@@ -19,7 +19,7 @@
   <br>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,docker,mysql,c,cpp,rust,java,ruby,lua,python,vim,linux,debian" />
+      <img src="https://skillicons.dev/icons?i=git,docker,mysql,bash,c,cpp,rust,java,ruby,lua,python,haskell,vim,linux,debian" />
     </a>
   </p>
   <br>
