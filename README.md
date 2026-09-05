@@ -9,7 +9,7 @@
   </a>
   <br>
   <br>
-  Hi, I'm Matheus Victor Moreira, Back-end and Low level Programmer.
+  Hi, I'm Matheus Victor Moreira, Back-end and Low level Programmer from Mossoró, Brazil!
   <br>
   <br>
   <br>
@@ -25,36 +25,18 @@
   <br>
   <br>
   
-  ✦ Special thanks ✦
+  ✦ Education & Institutions ✦
   
   <br>
-  <p>
-    <a href="https://getapps.cafe/">
-      <img alt="getapps.cafe" height="92" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
+  <p align="center">
+    <a href="https://www.grautecnico.com.br/">
+      <img alt="grau" height="150" src="grau.jpg">
     </a>
-    <a href="https://apps.apple.com/app/apple-store/id6757860829?pt=80185800&ct=jay&mt=8">
-      <img alt="SubList" height="92" src="https://jaywcjlove.github.io/sponsor/SubList.jpg">
+    <a href="https://ufersa.edu.br/">
+      <img alt="ufersa" height="150" src="ufersa.png">
     </a>
-    <a href="https://doloffer.com">
-      <img alt="HiPixel" height="92" src="https://jaywcjlove.github.io/sponsor/doloffer.jpg">
-    </a>
-    <a href="https://hipixel.5km.tech/">
-      <img alt="HiPixel" height="92" src="https://jaywcjlove.github.io/sponsor/HiPixel.jpeg">
-    </a>
-    <a href="https://screensage.pro/">
-      <img alt="ScreenSage Pro" height="92" src="https://jaywcjlove.github.io/sponsor/screensage.png">
-    </a>
-    <a href="https://ip.im/">
-      <img alt="IP.IM" height="92" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
-    </a>
-    <a target="_blank" href="https://warp.dev/awesome-mac">
-      <img alt="warp" height="92" src="https://wangchujiang.com/sponsor/warp-banner.png">
-    </a>
-    <a target="_blank" href="https://zenquery.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome-mac">
-      <img alt="zenquery" height="92" src="https://wangchujiang.com/sponsor/zenquery.png">
-    </a>
-    <a target="_blank" href="https://pawakalabs.com/products/fakey/">
-      <img alt="fakey" height="92" src="https://wangchujiang.com/sponsor/fakey.png">
+    <a>
+      <img alt="laicq" height="150" src="laicq.png">
     </a>
   </p>
   <br>
