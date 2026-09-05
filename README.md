@@ -39,6 +39,10 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=java,ruby,lua,haskell" />
   </p>
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,flask" />
+  </p>
   
   <p align="center">
     <img src="https://skillicons.dev/icons?i=bash,vim,linux,debian" />
